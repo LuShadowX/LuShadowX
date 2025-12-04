@@ -40,7 +40,16 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuShadowX&theme=2077&utcOffset=5.5" alt="Productive Time" />
+<table>
+  <tr>
+    <td valign="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuShadowX&theme=2077&utcOffset=5.5" alt="Productive Time" />
+    </td>
+    <td valign="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRheTdyMXQxdW05ZHp0NWtyNjBiNDk2cXJteHc3MTQ3eWpsMW1iayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o2KLYPem407CM/giphy.gif" width="220" alt="L Death Note Dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -69,14 +78,13 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 ---
 
 ## ✨ **Thanks for Visiting!**
-<div align="center">
 
-<img src="https://media1.tenor.com/m/K6QDyjCqZUUAAAAC/ayanokoji-classroom-of-the-elite.gif" height="200px" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdvM3Z5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYTNtaGk3aHEzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gAzr22rxCZUzhA2Yn0/giphy.gif" width="120" alt="Solo Leveling Arise" />
 
 <br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<h3 align="center">⭐ Feel free to star my repos if you like them! ⭐</h3>
 
-⭐ *Feel free to star my repos if you like them!*
-
-</div>
+<br/>
+<br/>
