@@ -1,12 +1,20 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW83a2h4M3l0OTZ5bm95aHk0bm95aHk0bm95aHk0bm95aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKrEzvJbsQNtRF6/giphy.gif" width="600" alt="Dragon Animation" />
+  
+  <br/>
+  
+  <h3>🐉 Welcome to LuShadowX's Coding Lair 🐉</h3>
+</div>
 
+---
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lakshya+Supyal!;AI%2FML+Enthusiast!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!" alt="Typing SVG" />
   </a>
 
   <br/>
   <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
-
 </div>
 
 ---
@@ -28,6 +36,7 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 </div>
 
 ---
+
 ## 📊 **GitHub Stats**
 <div align="center">
 
