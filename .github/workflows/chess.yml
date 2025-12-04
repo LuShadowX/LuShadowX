@@ -1,15 +1,23 @@
 name: Chess Game
 
 on:
-  # Run on every issue comment (when someone makes a move)
+  # Trigger when you comment a move (e.g., "e4")
   issue_comment:
     types: [created]
-  # Run manually if needed
+  # Trigger when you open the "Start Game" issue
+  issues:
+    types: [opened]
+  # Manual trigger
   workflow_dispatch:
 
 jobs:
   play-chess:
     runs-on: ubuntu-latest
+    # 🚨 VITAL: This gives the robot permission to write the image file!
+    permissions:
+      contents: write
+      issues: write
+
     steps:
       - uses: actions/checkout@v3
 
