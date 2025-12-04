@@ -20,14 +20,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # Step 2: Generate the People Grid (ULTRA HD VERSION)
+      # Step 2: Generate the People Grid (4K RETINA VERSION)
       - uses: lowlighter/metrics@latest
         with:
           filename: people.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_people: yes
-          plugin_people_types: followers      # Only show Followers
-          plugin_people_limit: 28             # Show 28 people
-          plugin_people_size: 120             # 120px is Very High Quality (HD)
-          plugin_people_identicon: no         # Hide boring default icons
+          plugin_people_types: followers
+          plugin_people_limit: 28
+          # SIZE 200 IS HUGE. This forces GitHub to serve the High-Res image.
+          plugin_people_size: 200
+          plugin_people_identicon: no
