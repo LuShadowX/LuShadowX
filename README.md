@@ -1,14 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW83a2h4M3l0OTZ5bm95aHk0bm95aHk0bm95aHk0bm95aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKrEzvJbsQNtRF6/giphy.gif" width="600" alt="Dragon Animation" />
-  
-  <br/>
-  
-  <h3>🐉 Welcome to LuShadowX's Coding Lair 🐉</h3>
-</div>
-
----
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!" alt="Typing SVG" />
   </a>
@@ -20,6 +10,9 @@
 ---
 
 ## 🚀 **About Me**
+
+<img align="right" width="280" src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" alt="Zoro Smiling" />
+
 I'm a passionate **CS Student & AIML Enthusiast** from India who loves building performant apps and exploring low-level concepts like **OS, Memory Management & DSA**.
 
 - 🔭 **Currently working on:** 📌 *Process Analyzer* → [GitHub Repo](https://github.com/LuShadowX/AI-Powered-Process-Performance-Analyzer-For-OS)
@@ -27,6 +20,8 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 - 🧠 **Learning:** Advanced **DSA**, **System Design**, **Artificial Intelligence**
 
 - 📬 **Reach me at:** **lukshyasupyaldl1@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -47,7 +42,8 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 </div>
 
 <div align="center">
-  <img src="https://github.com/LuShadowX/LuShadowX/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="100%"/>
+  <h3>🚨 Oh no! Stop it! That snake is eating my progress! 🐍😎</h3>
+  <img src="https://github.com/LuShadowX/LuShadowX/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
 </div>
 
 ---
@@ -62,6 +58,8 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
   <a href="https://www.linkedin.com/in/lukshya-supyal2006/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <img src="https://img.shields.io/badge/Discord-madhav1895-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
