@@ -65,6 +65,26 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
   <img src="https://github.com/LuShadowX/LuShadowX/blob/main/github-metrics.svg" alt="3D Isometric Calendar" width="100%" />
 </div>
 
+<div align="center">
+  <h3>♟️ Play Chess With Me!</h3>
+  <p>Click on a piece to make a move. The board updates automatically!</p>
+  
+  <a href="https://github.com/LuShadowX/LuShadowX/issues/new?body=Please+do+not+change+the+title.+Just+click+Submit+new+issue.+You+can+change+this+message+if+you+want.&title=chess%3Astart">
+    <img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png" alt="Chess Board" width="600" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/LuShadowX/LuShadowX/issues/new?body=Please+do+not+change+the+title.+Just+click+Submit+new+issue.+You+can+change+this+message+if+you+want.&title=chess%3Astart">
+    <img src="https://img.shields.io/badge/Start%20New%20Game-Click%20Here-success?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆 My Amazing Community</h3>
+  <img src="https://github.com/LuShadowX/LuShadowX/blob/main/people.svg" alt="People" width="100%" />
+</div>
+
 ---
 
 ## 🌐 **Connect With Me**
