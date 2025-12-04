@@ -36,8 +36,11 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuShadowX&theme=2077" alt="Top Languages" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuShadowX&theme=2077" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuShadowX&theme=2077&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
