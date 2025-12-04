@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!;Genius+in+the+making..." alt="Typing SVG" />
   </a>
 
   <br/>
@@ -56,6 +56,13 @@ I'm a passionate **CS Student & AIML Enthusiast** from India who loves building 
 <div align="center">
   <h3>🚨 Oh no! Stop it! That snake is eating my progress! 🐍😎</h3>
   <img src="https://github.com/LuShadowX/LuShadowX/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🌳 My Coding Garden 🌳</h3>
+  <img src="https://github.com/LuShadowX/LuShadowX/blob/main/github-metrics.svg" alt="3D Isometric Calendar" width="100%" />
 </div>
 
 ---
