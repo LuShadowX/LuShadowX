@@ -1,28 +1,26 @@
 name: Chess Game
 
 on:
-  # Trigger when you comment a move (e.g., "e4")
   issue_comment:
     types: [created]
-  # Trigger when you open the "Start Game" issue
   issues:
     types: [opened]
-  # Manual trigger
   workflow_dispatch:
 
 jobs:
   play-chess:
     runs-on: ubuntu-latest
-    # 🚨 VITAL: This gives the robot permission to write the image file!
     permissions:
       contents: write
       issues: write
+      pull-requests: write
 
     steps:
       - uses: actions/checkout@v3
 
+      # 🟢 FIXED: Using a working Chess Engine
       - name: Run Chess Game
-        uses: timburgan/timburgan@master
+        uses: E-Z-Hart/chess-actions@v2.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           reaction_token: ${{ secrets.GITHUB_TOKEN }}
