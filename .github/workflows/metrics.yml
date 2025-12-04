@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  # Schedule updates (once a day)
+  # Schedule updates (once a day at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run it manually
+  # Lines below let you run it manually from the Actions tab
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -11,17 +11,23 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Step 1: Generate the Coding Garden (Calendar)
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: LuShadowX
-          template: classic
           base: ""
-          config_timezone: Asia/Kolkata
-          
-          # This enables the "Green Lawn" (Isometric Calendar)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+      # Step 2: Generate the People Grid (Followers)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: people.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_identicon: yes
