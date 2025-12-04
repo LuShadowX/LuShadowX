@@ -20,7 +20,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # Step 2: Generate the People Grid (High Quality Followers)
+      # Step 2: Generate the People Grid (ULTRA HD VERSION)
       - uses: lowlighter/metrics@latest
         with:
           filename: people.svg
@@ -28,6 +28,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers      # Only show Followers
-          plugin_people_limit: 20             # Show 20 people max (keeps it clean)
-          plugin_people_size: 60              # Big, High-Quality images (No more blur!)
+          plugin_people_limit: 28             # Show 28 people
+          plugin_people_size: 120             # 120px is Very High Quality (HD)
           plugin_people_identicon: no         # Hide boring default icons
