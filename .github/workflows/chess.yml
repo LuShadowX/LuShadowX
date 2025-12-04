@@ -1,0 +1,20 @@
+name: Chess Game
+
+on:
+  # Run on every issue comment (when someone makes a move)
+  issue_comment:
+    types: [created]
+  # Run manually if needed
+  workflow_dispatch:
+
+jobs:
+  play-chess:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run Chess Game
+        uses: timburgan/timburgan@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          reaction_token: ${{ secrets.GITHUB_TOKEN }}
