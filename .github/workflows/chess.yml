@@ -3,24 +3,21 @@ name: Chess Game
 on:
   issue_comment:
     types: [created]
-  issues:
-    types: [opened]
   workflow_dispatch:
 
 jobs:
   play-chess:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      issues: write
-      pull-requests: write
+      contents: write  # Allows updating the image
+      issues: write    # Allows commenting back
 
     steps:
       - uses: actions/checkout@v3
 
-      # 🟢 FIXED: Using a working Chess Engine
+      # 🟢 FIXED: Switched to the reliable master engine
       - name: Run Chess Game
-        uses: E-Z-Hart/chess-actions@v2.0
+        uses: vsnthdev/chess-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           reaction_token: ${{ secrets.GITHUB_TOKEN }}
