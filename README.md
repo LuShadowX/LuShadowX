@@ -11,15 +11,38 @@
 
 ## 🚀 **About Me**
 
-<img align="right" width="280" src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" alt="Zoro Smiling" />
-
-I'm a passionate **CS Student & AIML Enthusiast** from India who loves building performant machine learning models and exploring low-level concepts like **OS, Memory Management & DSA**.
-
-- 🔭 **Currently working on:** 📌 *Process Analyzer* → [GitHub Repo](https://github.com/LuShadowX/AI-Powered-Process-Performance-Analyzer-For-OS)
-
-- 🧠 **Learning:** Advanced **DSA**, **System Design**, **Artificial Intelligence applications and concepts**
-
-- 📬 **Reach me at:** **lukshyasupyaldl1@gmail.com**
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h3>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0bnY4YW84eW83YnZ5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WXB88TeARFVvi/giphy.gif" width="35" alt="cat floating"/>
+        A little more about me...
+      </h3>
+<pre>
+const LUKSHYA = {
+    pronouns: "He" | "Him",
+    role: "CS Student & AIML Enthusiast",
+    languages: ["Python", "C++", "C", "JavaScript"],
+    "web-stack": ["HTML", "CSS"],
+    database: ["MySQL"],
+    "tools-os": ["Git", "VS Code", "Linux", "Ubuntu", "Bash"],
+    learning: ["Advanced DSA", "System Design", "AI/ML Concepts"],
+    "current-focus": "Building performant ML models & Exploring Low-level OS concepts"
+};
+</pre>
+      <br/>
+       <p>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYTNtaGk3aHEzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LdOyjZ7FKmoyA/giphy.gif" width="50" align="left" alt="community people"/>
+        <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+      </p>
+    </td>
+    <td valign="top" width="35%">
+      <div align="right">
+        <img width="280" src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" alt="Zoro Smiling" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
