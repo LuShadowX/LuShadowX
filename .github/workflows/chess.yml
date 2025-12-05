@@ -9,13 +9,13 @@ jobs:
   play-chess:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Allows updating the image
-      issues: write    # Allows commenting back
+      contents: write  # Critical for saving the image
+      issues: write    # Critical for the bot to reply
 
     steps:
       - uses: actions/checkout@v3
 
-      # 🟢 FIXED: Switched to the reliable master engine
+      # 🟢 THIS IS THE WORKING ENGINE
       - name: Run Chess Game
         uses: vsnthdev/chess-action@master
         with:
