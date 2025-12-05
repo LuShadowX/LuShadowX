@@ -15,9 +15,10 @@
   <tr>
     <td valign="top" width="65%">
       <h3>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0bnY4YW84eW83YnZ5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WXB88TeARFVvi/giphy.gif" width="35" alt="cat floating"/>
-        A little more about me...
-      </h3>
+        <h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" alt="cat floating"/>
+  A little more about me...
+</h3>
 <pre>
 const LUKSHYA = {
     pronouns: "He" | "Him",
@@ -30,14 +31,20 @@ const LUKSHYA = {
     "current-focus": "Building performant ML models & Exploring Low-level OS concepts"
 };
 </pre>
-      <br/>
        <p>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYTNtaGk3aHEzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LdOyjZ7FKmoyA/giphy.gif" width="50" align="left" alt="community people"/>
-        <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+        <p>
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</p>
       </p>
     </td>
     <td valign="top" width="35%">
       <div align="right">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <img width="280" src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" alt="Zoro Smiling" />
       </div>
     </td>
