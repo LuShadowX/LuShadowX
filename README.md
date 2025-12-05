@@ -9,7 +9,7 @@
 
 ## 🚀 **About Me**
 
-<table style="border: none; background-color: black;">
+<table style="border: none;">
 <tr>
 <td valign="top" style="border: none;">
 <h3>
@@ -132,14 +132,21 @@ const LUKSHYA = {
 
 ---
 
-## ✨ **Thanks for Visiting!**
+<h2>
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
+  ✨Thanks for Visiting!
+</h2>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdvM3Z5ZHkycHc1OGQxemdkYnRwaHd6b2RtNm5xYTNtaGk3aHEzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gAzr22rxCZUzhA2Yn0/giphy.gif" width="120" alt="Solo Leveling Arise" />
 
 <br/>
 <br/>
 
-<h3 align="center">⭐ Feel free to star my repos if you like them! ⭐</h3>
+<h3 align="center">
+  
+  &nbsp;⭐Feel free to star my repos if you like them⭐!&nbsp;
+ 
+</h3>
 
 <br/>
 <br/>
