@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7;39FF14;FF4500&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lukshya+Supyal!;AI%2FML+Enthusiast!;Code+Slayer!&v=2" alt="Typing SVG" />
   </a>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lukshya%20Supyal%20Views&color=8b5cf6&style=for-the-badge" />
 </div>
 
 ## 🚀 **About Me**
@@ -122,9 +122,9 @@ const LUKSHYA = {
 ## 🌐 **Connect With Me**
 <div align="center">
 
-  <a href="https://github.com/LuShadowX"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/LuShadowX"><img src="https://img.shields.io/badge/GitHub-Lukshya%20Supyal-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/lukshya-supyal2006/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lukshya-supyal2006/"><img src="https://img.shields.io/badge/LinkedIn-Lukshya%20Supyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <img src="https://img.shields.io/badge/Discord-madhav1895-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
@@ -143,7 +143,7 @@ const LUKSHYA = {
 <br/>
 
 <h3 align="center">
-  
+ 
   &nbsp;⭐Feel free to star my repos if you like them⭐!&nbsp;
  
 </h3>
