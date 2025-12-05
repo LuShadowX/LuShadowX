@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 🟢 THIS IS THE CORRECT ENGINE
+      # 👇 THIS IS THE CRITICAL CHANGE
       - name: Run Chess Game
         uses: vsnthdev/chess-action@master
         with:
