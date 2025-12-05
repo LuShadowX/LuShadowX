@@ -28,7 +28,6 @@ const LUKSHYA = {
     "current-focus": "Building performant ML models"
 };
 </pre>
-<br/>
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
@@ -40,8 +39,6 @@ const LUKSHYA = {
 </td>
 </tr>
 </table>
-
-<br/>
 
 <div>
   <h3>⚡ Stats & Info</h3>
@@ -57,10 +54,10 @@ const LUKSHYA = {
   <br/>
 
   <div align="center">
-    <a href="https://github.com/LuShadowX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuShadowX&theme=nord_dark" width="32%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuShadowX&theme=nord_dark" width="32%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuShadowX&theme=nord_dark" width="32%"></a>
+    <a href="https://github.com/LuShadowX"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuShadowX&theme=2077" width="32%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuShadowX&theme=2077" width="32%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuShadowX&theme=2077" width="32%"></a>
     <details>
       <summary>More stats</summary>
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuShadowX&theme=nord_dark" >
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuShadowX&theme=2077" >
     </details>
   </div>
 </div>
