@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 👇 THIS IS THE CRITICAL CHANGE
+      # 🟢 THIS IS THE ORIGINAL, OFFICIAL ENGINE
       - name: Run Chess Game
-        uses: vsnthdev/chess-action@master
+        uses: timburgan/timburgan@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           reaction_token: ${{ secrets.GITHUB_TOKEN }}
