@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 🟢 FIXED: Using a working mirror of the engine
+      # 🟢 THIS IS THE WORKING BACKUP ROBOT
       - name: Run Chess Game
-        uses: jamesgeorge007/chess-action@master
+        uses: guilhermeprocopio/chess-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           reaction_token: ${{ secrets.GITHUB_TOKEN }}
