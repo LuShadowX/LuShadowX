@@ -4,7 +4,7 @@
   </a>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lu%20Shadow%20X&color=8b5cf6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lukshya%20Supyal%20Views&color=8b5cf6&style=for-the-badge" />
 </div>
 
 ## 🚀 **About Me**
@@ -110,7 +110,7 @@ const LUKSHYA = {
   <h3>♟️ Play Chess With Me!</h3>
   <p>Click on a piece to make a move. The board updates automatically!</p>
   
-  <a href="https://github.com/LuShadowX/LuShadowX/issues/new?body=Please+do+not+change+the+title.+Just+click+Submit+new+issue.+You+can+change+this+message+if+you+want.&title=chess%3Astart"><img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png" alt="Chess Board" width="600" /></a>
+  <a href="https://github.com/LuShadowX/LuShadowX/issues/new?body=Please+do+not+change+the+title.+Just+click+Submit+new+issue.+You+can+change+this+message+if+you+want.&title=chess%3Astart"><img src="https://github.com/LuShadowX/LuShadowX/blob/main/chess_images/chess.png?raw=true" alt="Chess Board" width="600" /></a>
   
   <br/>
   
