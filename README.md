@@ -13,11 +13,11 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" alt="Zoro Smiling" />
 
-I'm a passionate **CS Student & AIML Enthusiast** from India who loves building performant apps and exploring low-level concepts like **OS, Memory Management & DSA**.
+I'm a passionate **CS Student & AIML Enthusiast** from India who loves building performant machine learning models and exploring low-level concepts like **OS, Memory Management & DSA**.
 
 - 🔭 **Currently working on:** 📌 *Process Analyzer* → [GitHub Repo](https://github.com/LuShadowX/AI-Powered-Process-Performance-Analyzer-For-OS)
 
-- 🧠 **Learning:** Advanced **DSA**, **System Design**, **Artificial Intelligence**
+- 🧠 **Learning:** Advanced **DSA**, **System Design**, **Artificial Intelligence applications and concepts**
 
 - 📬 **Reach me at:** **lukshyasupyaldl1@gmail.com**
 
