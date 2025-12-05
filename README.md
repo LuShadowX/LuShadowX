@@ -4,7 +4,7 @@
   </a>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lu%20Shadow%20X&color=8b5cf6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lukshya%20Supyal%20Views&color=8b5cf6&style=for-the-badge" />
 </div>
 
 ## 🚀 **About Me**
@@ -144,8 +144,8 @@ const LUKSHYA = {
 
 <h3 align="center">
  
-  &nbsp;⭐Feel free to star my repos if you like them⭐!&nbsp;
- 
+  &nbsp; ⭐Feel free to star my repos if you like them ⭐!&nbsp;
+  
 </h3>
 
 <br/>
