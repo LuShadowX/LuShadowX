@@ -34,7 +34,7 @@ const LUKSHYA = {
 </td>
 <td valign="center" style="border: none;">
 <div align="right">
-<img src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" width="300" alt="Zoro Smiling" />
+<img src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" width="300" alt="Zoro Smiling"/>
 </div>
 </td>
 </tr>
