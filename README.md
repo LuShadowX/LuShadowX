@@ -66,7 +66,7 @@ const LUKSHYA = {
 
 ---
 
-## ⚙️ **Tech Stack**
+## ⚙️ **Tech Stack:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,linux,ubuntu,bash,git,vscode&theme=dark&perline=8" />
 </div>
