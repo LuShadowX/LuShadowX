@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=LuShadowX&label=Lu%20Shadow%20X&color=8b5cf6&style=for-the-badge" />
 </div>
 
-## 🚀 **About Mee**
+## 🚀 **About Me:**
 
 <table style="border: none;">
 <tr>
