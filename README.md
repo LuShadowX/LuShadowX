@@ -73,7 +73,7 @@ const LUKSHYA = {
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats:**
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuShadowX&theme=2077" alt="Top Languages" />
