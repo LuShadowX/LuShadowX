@@ -119,7 +119,7 @@ const LUKSHYA = {
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Connect With Me:**
 <div align="center">
 
   <a href="https://github.com/LuShadowX"><img src="https://img.shields.io/badge/GitHub-Lukshya%20Supyal-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
